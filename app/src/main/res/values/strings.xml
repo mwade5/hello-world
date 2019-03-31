@@ -1,0 +1,10 @@
+<!-- Purpose: strings.xml helps with something in Android called "Localization". More specifically, the Android system selects
+              which resource to use (default or alternate) based on the location of the device. strings.xml makes sure the proper
+              strings are loaded in based on the device's locale.
+     Modifications:
+        1. Added two new strings 'Enter a message' and 'Send'. -->
+<resources>
+    <string name="app_name">Hello World</string>
+    <string name="edit_message">Enter a message</string>
+    <string name="button_send">Send</string>
+</resources>
