@@ -9,7 +9,7 @@ import android.widget.EditText
 /* Purpose: The main activity is the entry point of the app (where program processing starts).
    When you run the application, an instance of this Activity is 'launched' and it's layout is loaded. */
 class MainActivity : AppCompatActivity() {
-
+    // Sample comment for git!
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_main)
